@@ -35,6 +35,11 @@ public class InputManager : MonoBehaviour
         playerInput.Disable();
     }
 
+    public Vector2 GetMovementInput()
+    {
+        return playerInput.Player.Movement.ReadValue<Vector2>();
+    }
+
     public Vector2 GetMouseDelta()
     {
         return playerInput.Player.Mouse.ReadValue<Vector2>();
