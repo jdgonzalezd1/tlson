@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5ECF4943-AF6A-432D-B86A-249FBFF39D52}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{5ECF4943-AF6A-432D-B86A-249FBFF39D52}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="GreenVSPollutionSoundBank" ID="{F31F5081-C9D8-49ED-8165-15A42BC7C4C5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_7_Acceleraci_n_de_FloresyFrutas_01" ID="{E731B7ED-2F59-4078-A136-84CC7E888E2B}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Boton__Resume___Reanudar__01" ID="{5B13E054-9B47-408A-BC46-F76EB04E985D}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Pausa__01" ID="{23C9053E-85FE-4177-906B-6283EDFD002E}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_10__Amplificar_rango_de_Purificaci_n_Niebla_01" ID="{12B89CF4-1E1D-437E-BB76-BDB91669EBA1}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Voltear_Cartas__Card_Flip_01" ID="{777FEF6D-AC51-4387-9717-1C5093AE48A3}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_6__Acceleraci_n_de_Semillas_01" ID="{0DF1CB94-9809-43FE-844F-4E44F73842AA}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_MusicGamePlay" ID="{01C34692-0D41-4454-8955-A6BC3A6683E6}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_8__Acceleraci_n_de_Agua_01" ID="{97B5AADD-DF31-44CF-B028-044C9E5ED581}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_3__Otorga_recurso_Agua_01" ID="{EE5D6386-AE71-45F2-BC49-EE671D37461C}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_9__Purificador_de_Niebla_01" ID="{BC22F10B-FC62-462B-83C0-84ED5F52AB58}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_11__Re_Fill_de_recursos_01" ID="{37B43895-D6E2-4638-B350-69202F43965C}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Al_hacer_click_en_la_carta__01" ID="{A1C3FFE2-E7E7-4720-B2A8-029AB88852C1}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_2__Desmantelar_totem_devolver_recursos_01" ID="{B38BBAA1-0640-4858-96AF-D6B47F4E7EB2}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_4__Otorga_recurso_Flores_01" ID="{5C75976A-C716-4A39-9EEC-F1B75AA05D52}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_2_01" ID="{BB2AA2CD-E319-4AEA-ADE6-841849CC2183}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Salida__01" ID="{7C204B4D-108D-4C1A-88D8-860373330503}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_3_01" ID="{A1D559BC-6903-4DA4-9788-ECC1D651DF5B}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_MusicGamePlay" ID="{27CB683D-D165-4EC6-A551-4521AD39734A}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_5__Otorga_recurso_Semillas_01" ID="{7CEFA8A3-4042-4F04-988B-4A805A0B52F2}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Carta_1__Vista_de_isla_01" ID="{026880C6-057E-4F4C-8B2D-DCF871A46888}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_1_01" ID="{C1C37D2E-7E7C-4F93-BB69-03D188BC0539}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Ocultar_Mostrar_cartas__01" ID="{CE3F74A3-6306-4FBA-BBF0-078030F5F1AA}" WorkUnitID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

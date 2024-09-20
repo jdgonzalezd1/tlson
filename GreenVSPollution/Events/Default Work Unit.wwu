@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{63E78127-0CC6-4A4F-991E-CFF58D0A10AF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_1__Vista_de_isla_01" ID="{026880C6-057E-4F4C-8B2D-DCF871A46888}">
+					<ChildrenList>
+						<Action Name="" ID="{C5B4BEB6-E75F-4351-9D4B-9A1133A090C0}" ShortID="432933772">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 1 _Vista de isla_01" ID="{7B8F6EBD-A29A-4098-A447-213FD958B7F8}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_2__Desmantelar_totem_devolver_recursos_01" ID="{B38BBAA1-0640-4858-96AF-D6B47F4E7EB2}">
+					<ChildrenList>
+						<Action Name="" ID="{330CDE57-6ED9-476B-9856-579A177E64F9}" ShortID="605322372">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 2 _Desmantelar totem-devolver recursos_01" ID="{EB600392-0093-465D-AA4D-3D6AA759463C}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_3__Otorga_recurso_Agua_01" ID="{EE5D6386-AE71-45F2-BC49-EE671D37461C}">
+					<ChildrenList>
+						<Action Name="" ID="{6B6CE04A-BFA5-4A56-8250-980A97B35A2B}" ShortID="948681759">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 3 _Otorga recurso_Agua_01" ID="{08D26C41-9829-40C8-921D-9BC50DC7CBF8}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_4__Otorga_recurso_Flores_01" ID="{5C75976A-C716-4A39-9EEC-F1B75AA05D52}">
+					<ChildrenList>
+						<Action Name="" ID="{DE606DCA-7BD1-40FB-A96A-F063EEBE63FC}" ShortID="647934003">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 4 _Otorga recurso_Flores_01" ID="{1557905B-9A09-4817-9261-05289C9D908F}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_5__Otorga_recurso_Semillas_01" ID="{7CEFA8A3-4042-4F04-988B-4A805A0B52F2}">
+					<ChildrenList>
+						<Action Name="" ID="{E4BF2FC7-4644-4326-B179-DE34BE070C64}" ShortID="220994053">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 5 _Otorga recurso_Semillas_01" ID="{24A46B17-9146-4AFF-BB41-491F2E92AD22}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_6__Acceleraci_n_de_Semillas_01" ID="{0DF1CB94-9809-43FE-844F-4E44F73842AA}">
+					<ChildrenList>
+						<Action Name="" ID="{B3ED91A4-6B76-4646-8D58-1A0D683C1096}" ShortID="1052231159">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 6 _Acceleración de Semillas_01" ID="{047B8B7E-4373-4FFB-9105-6C28F136A45C}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_7_Acceleraci_n_de_FloresyFrutas_01" ID="{E731B7ED-2F59-4078-A136-84CC7E888E2B}">
+					<ChildrenList>
+						<Action Name="" ID="{04DDF5D3-5485-4112-A2D8-D0F9C4ECA4D1}" ShortID="1004508890">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 7_Acceleración de FloresyFrutas_01" ID="{9E4D9FAC-73A2-447E-BEB8-696BC98985D0}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_8__Acceleraci_n_de_Agua_01" ID="{97B5AADD-DF31-44CF-B028-044C9E5ED581}">
+					<ChildrenList>
+						<Action Name="" ID="{1424D7EA-20A7-40A0-BD15-0A0D804EBC1B}" ShortID="48605700">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 8 _Acceleración de Agua_01" ID="{E8950188-C639-481B-9BEA-19AB9DAE2A6D}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_9__Purificador_de_Niebla_01" ID="{BC22F10B-FC62-462B-83C0-84ED5F52AB58}">
+					<ChildrenList>
+						<Action Name="" ID="{70241D1A-4096-4557-83E7-A33B6623888C}" ShortID="344415683">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 9 _Purificador de Niebla_01" ID="{63AF8623-C52F-4D55-8B10-9402FE67F6F7}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_10__Amplificar_rango_de_Purificaci_n_Niebla_01" ID="{12B89CF4-1E1D-437E-BB76-BDB91669EBA1}">
+					<ChildrenList>
+						<Action Name="" ID="{8F465788-A841-4941-904D-8F1D8E2C9051}" ShortID="391106021">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 10 _Amplificar rango de Purificación Niebla_01" ID="{8DE8B3FF-A4B3-47B1-9902-B3AFEA5A432A}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Carta_11__Re_Fill_de_recursos_01" ID="{37B43895-D6E2-4638-B350-69202F43965C}">
+					<ChildrenList>
+						<Action Name="" ID="{D4D37086-DFD4-446D-BA75-3A6B9879D8FF}" ShortID="149386193">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Carta 11 _Re-Fill de recursos_01" ID="{A7F3F008-09D5-46ED-8E24-1AC90129CCA6}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Voltear_Cartas__Card_Flip_01" ID="{777FEF6D-AC51-4387-9717-1C5093AE48A3}">
+					<ChildrenList>
+						<Action Name="" ID="{72635869-C63A-45A2-95A1-BFBE373EEAC7}" ShortID="600744504">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Voltear Cartas _Card Flip_01" ID="{FC012D60-013F-4076-A625-C28FBE016D7D}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_1_01" ID="{C1C37D2E-7E7C-4F93-BB69-03D188BC0539}">
+					<ChildrenList>
+						<Action Name="" ID="{A7E18A52-9A71-4F47-9A96-94C10ACE3266}" ShortID="380022284">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 1_01" ID="{8A539CC9-1210-4B7E-AAE3-6B67AE28CBA5}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_2_01" ID="{BB2AA2CD-E319-4AEA-ADE6-841849CC2183}">
+					<ChildrenList>
+						<Action Name="" ID="{1F372DA0-424B-4E58-97F1-D6C5BF83E68B}" ShortID="480048972">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 2_01" ID="{AA2899C1-6CF3-4B98-A7D5-062809684662}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_3_01" ID="{A1D559BC-6903-4DA4-9788-ECC1D651DF5B}">
+					<ChildrenList>
+						<Action Name="" ID="{042857D3-CAF5-4DE8-ABE7-61A2D8ED1133}" ShortID="477272433">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 3_01" ID="{E3B75D21-540D-4B26-8962-31B87CBF882C}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Boton__Resume___Reanudar__01" ID="{5B13E054-9B47-408A-BC46-F76EB04E985D}">
+					<ChildrenList>
+						<Action Name="" ID="{695199EB-418A-4F61-B3CC-7B1B7C1F1819}" ShortID="91046018">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Boton _Resume - Reanudar _01" ID="{8F0A2679-20BA-4C14-BCC7-124ED5166A01}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Al_hacer_click_en_la_carta__01" ID="{A1C3FFE2-E7E7-4720-B2A8-029AB88852C1}">
+					<ChildrenList>
+						<Action Name="" ID="{37BB8BA5-7BF2-42AB-846F-C6727E4554A7}" ShortID="424984275">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Boton_Al hacer click en la carta _01" ID="{229812F5-3F47-4976-BFBF-3D5631B42B8F}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Ocultar_Mostrar_cartas__01" ID="{CE3F74A3-6306-4FBA-BBF0-078030F5F1AA}">
+					<ChildrenList>
+						<Action Name="" ID="{923C4A97-FE18-4BC8-B0C8-69D15DFA040D}" ShortID="320631080">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Boton_Ocultar_Mostrar cartas _01" ID="{87D15DB1-AF7D-4538-BC7B-952814CD85AE}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Pausa__01" ID="{23C9053E-85FE-4177-906B-6283EDFD002E}">
+					<ChildrenList>
+						<Action Name="" ID="{E34B7CE0-343C-4FD5-9632-A5F04F0E061A}" ShortID="255470838">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Boton_Pausa _01" ID="{CA2F492B-AA95-44D1-9392-B0DAE5FCEB9D}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Salida__01" ID="{7C204B4D-108D-4C1A-88D8-860373330503}">
+					<ChildrenList>
+						<Action Name="" ID="{1FD98A0F-2183-435B-89BA-2151F9494521}" ShortID="886815615">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="The Last Spark of Nature_ SFX_Boton_Salida _01" ID="{2AD078BC-5CB5-4A7D-A67A-4404F7CA3EEB}" WorkUnitID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MusicGamePlay" ID="{27CB683D-D165-4EC6-A551-4521AD39734A}">
+					<ChildrenList>
+						<Action Name="" ID="{D682CD15-0D6B-4BDC-9FFC-43F4B03C699A}" ShortID="65292827">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicGamePlay" ID="{C58259F0-652B-491D-AEF2-2714C50297EC}" WorkUnitID="{4E22A83B-E814-4C84-8830-8CFCFCFAF73D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_MusicGamePlay" ID="{01C34692-0D41-4454-8955-A6BC3A6683E6}">
+					<ChildrenList>
+						<Action Name="" ID="{848E36B0-7DBF-4BDE-990B-D6A7FCEA06A8}" ShortID="833343203">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicGamePlay" ID="{C58259F0-652B-491D-AEF2-2714C50297EC}" WorkUnitID="{4E22A83B-E814-4C84-8830-8CFCFCFAF73D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
