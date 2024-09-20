@@ -28,6 +28,7 @@ public class CameraRig : MonoBehaviour
         transform.position += movementDirection * camMovSpeed;
         if (tmpMove == Vector2.zero)
         {
+            cameraReference.position = new Vector3(cameraReference.position.x, cameraReference.position.y, 0);
             transform.position = cameraReference.position;
         }
     }

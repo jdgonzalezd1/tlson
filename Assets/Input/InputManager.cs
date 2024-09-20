@@ -45,6 +45,11 @@ public class InputManager : MonoBehaviour
         return playerInput.Player.Mouse.ReadValue<Vector2>();
     }
 
+    public Vector2 GetMouseScrollY()
+    {
+        return playerInput.Player.Zoom.ReadValue<Vector2>();
+    }
+
     public bool GetLeftClick()
     {
         return playerInput.Player.Interact.triggered;
