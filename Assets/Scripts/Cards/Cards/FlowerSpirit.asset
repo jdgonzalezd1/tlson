@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dce7428e4ef8d274bb11e97e3eb3d106, type: 3}
   m_Name: FlowerSpirit
   m_EditorClassIdentifier: 
-  cardName: 
-  cardDescription: 
-  splashArt: {fileID: 0}
-  flowerCost: 0
-  seedCost: 0
-  waterCost: 0
+  cardName: "Esp\xEDritu Floral"
+  cardDescription: Crea un totem que genera 5 flores cada 3 segundos
+  splashArt: {fileID: 21300000, guid: c8ad52599c8e2e740922457596ef0dbc, type: 3}
+  flowerCost: 10
+  seedCost: 5
+  waterCost: 10

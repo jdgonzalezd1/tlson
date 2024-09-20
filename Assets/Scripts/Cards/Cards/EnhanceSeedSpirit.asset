@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dce7428e4ef8d274bb11e97e3eb3d106, type: 3}
   m_Name: EnhanceSeedSpirit
   m_EditorClassIdentifier: 
-  cardName: 
-  cardDescription: 
-  splashArt: {fileID: 0}
+  cardName: Mejorar Totem de Semillas
+  cardDescription: "Mejora la producci\xF3n de un Totem de Semillas que no hayas
+    mejorado."
+  splashArt: {fileID: 21300000, guid: 3a2bef068eb3f534cb1dee76ac095839, type: 3}
   flowerCost: 0
-  seedCost: 0
+  seedCost: 150
   waterCost: 0
