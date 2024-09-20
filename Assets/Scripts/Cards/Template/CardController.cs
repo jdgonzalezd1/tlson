@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class CardController : MonoBehaviour
 {
+    #region display card info
     [SerializeField]
     private Card card;
 
@@ -38,9 +39,12 @@ public class CardController : MonoBehaviour
         cardSplashArt.sprite = card.splashArt;
     }
 
+    #endregion
 
+    /*
     public void Test()
     {
         print("Success");
     }
+    */
 }

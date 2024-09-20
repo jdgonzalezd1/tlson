@@ -490,6 +490,10 @@ PrefabInstance:
       propertyPath: card
       value: 
       objectReference: {fileID: 11400000, guid: 2ecc1208cea8fc349b90c016cdd636e1, type: 2}
+    - target: {fileID: 3243233965946435651, guid: 52fe852983ce01a48b13a1a8ead48032, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7659893051109639125, guid: 52fe852983ce01a48b13a1a8ead48032, type: 3}
       propertyPath: m_Name
       value: Card
