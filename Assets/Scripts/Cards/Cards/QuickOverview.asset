@@ -15,7 +15,7 @@ MonoBehaviour:
   cardName: "Vistazo R\xE1pido"
   cardDescription: Puedes observar una zona cubierta por neblina en un radio de 3
     Unidades de forma temporal
-  splashArt: {fileID: 0}
+  splashArt: {fileID: 21300000, guid: 0a6444978aabb0e45a2b7c140d9b1a93, type: 3}
   flowerCost: 0
   seedCost: 0
   waterCost: 0
