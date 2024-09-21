@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4294292612898460785}
   - component: {fileID: -1445139575667548278}
   m_Layer: 0
-  m_Name: BuildTest1
+  m_Name: Semilla
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,8 +27,8 @@ Transform:
   m_GameObject: {fileID: 5781473141429465163}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.0794, y: -1.13, z: 0}
-  m_LocalScale: {x: 2.9449816, y: 2.612355, z: 1}
+  m_LocalPosition: {x: -25.7899, y: -26.2804, z: 0}
+  m_LocalScale: {x: 0.17385982, y: 0.18532436, z: 0.726}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -73,8 +73,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 07a0d4554ce16ff4eb5737511df977ef, type: 3}
+  m_SortingOrder: 10
+  m_Sprite: {fileID: 21300000, guid: 3e7c1d3a4d5fd5e48a7c8be03e9e7ce3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -121,7 +121,7 @@ PolygonCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.94, y: 1.1}
+    oldSize: {x: 21.34, y: 21.34}
     newSize: {x: 0.94, y: 1.1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
