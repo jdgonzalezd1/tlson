@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../../../../../GreenVSPollution</ProjectRoot>
+		<SourceFilesRoot>../../../../../GreenVSPollution/.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../../GreenVSPollution/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="546625190" Type="User" Language="SFX" Hash="{B9415A0E-7CA1-6B5F-6260-D8FA7D4FD09C}">
+			<ShortName>GreenVSPollutionSoundBank</ShortName>
+			<Path>GreenVSPollutionSoundBank.bnk</Path>
+			<Media>
+				<File Id="146076882" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 3 _Otorga recurso_Agua_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 3 _Otorga recurso_Agua_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="146482765" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 9 _Purificador de Niebla_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 9 _Purificador de Niebla_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="204645253" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 1_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 1_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="298005546" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 7_Acceleración de FloresyFrutas_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 7_Acceleración de FloresyFrutas_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="440234865" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 4 _Otorga recurso_Flores_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 4 _Otorga recurso_Flores_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="493330258" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 11 _Re-Fill de recursos_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 11 _Re-Fill de recursos_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="501054652" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 2_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 2_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="587981912" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 8 _Acceleración de Agua_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 8 _Acceleración de Agua_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="621874895" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 1 _Vista de isla_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 1 _Vista de isla_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="630296948" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Boton_Pausa _01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Boton_Pausa _01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="662442390" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Boton_Ocultar_Mostrar cartas _01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Boton_Ocultar_Mostrar cartas _01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="779837828" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 3_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 3_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="797448151" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 5 _Otorga recurso_Semillas_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 5 _Otorga recurso_Semillas_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="830648334" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 10 _Amplificar rango de Purificación Niebla_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 10 _Amplificar rango de Purificación Niebla_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="840125706" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Boton _Resume - Reanudar _01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Boton _Resume - Reanudar _01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="913250281" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Green vs pollution_mus.wav</ShortName>
+					<CachePath>SFX/Green vs pollution_mus_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="936190068" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 2 _Desmantelar totem-devolver recursos_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 2 _Desmantelar totem-devolver recursos_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="947238628" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Voltear Cartas _Card Flip_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Voltear Cartas _Card Flip_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="974119521" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Carta 6 _Acceleración de Semillas_01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Carta 6 _Acceleración de Semillas_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="982877609" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Boton_Salida _01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Boton_Salida _01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="991858296" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>The Last Spark of Nature_ SFX_Boton_Al hacer click en la carta _01.wav</ShortName>
+					<CachePath>SFX/The Last Spark of Nature_ SFX_Boton_Al hacer click en la carta _01_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2803263647" Name="Play_MusicGamePlay" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="913250281"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2535116307" Name="Play_The_Last_Spark_of_Nature__SFX_Boton__Resume___Reanudar__01" DurationType="OneShot" DurationMin="0.27408165" DurationMax="0.27408165">
+					<MediaRefs>
+						<MediaRef Id="840125706"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4061655016" Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Al_hacer_click_en_la_carta__01" DurationType="OneShot" DurationMin="1.0289342" DurationMax="1.0289342">
+					<MediaRefs>
+						<MediaRef Id="991858296"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3836058936" Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Ocultar_Mostrar_cartas__01" DurationType="OneShot" DurationMin="0.25460318" DurationMax="0.25460318">
+					<MediaRefs>
+						<MediaRef Id="662442390"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4071430048" Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Pausa__01" DurationType="OneShot" DurationMin="0.1915873" DurationMax="0.1915873">
+					<MediaRefs>
+						<MediaRef Id="630296948"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3913797448" Name="Play_The_Last_Spark_of_Nature__SFX_Boton_Salida__01" DurationType="OneShot" DurationMin="0.3558957" DurationMax="0.3558957">
+					<MediaRefs>
+						<MediaRef Id="982877609"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1406237484" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_10__Amplificar_rango_de_Purificaci_n_Niebla_01" DurationType="OneShot" DurationMin="2.5" DurationMax="2.5">
+					<MediaRefs>
+						<MediaRef Id="830648334"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2092624804" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_11__Re_Fill_de_recursos_01" DurationType="OneShot" DurationMin="2.141678" DurationMax="2.141678">
+					<MediaRefs>
+						<MediaRef Id="493330258"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2858023234" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_1__Vista_de_isla_01" DurationType="OneShot" DurationMin="2.4498866" DurationMax="2.4498866">
+					<MediaRefs>
+						<MediaRef Id="621874895"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="611736617" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_2__Desmantelar_totem_devolver_recursos_01" DurationType="OneShot" DurationMin="2.8598866" DurationMax="2.8598866">
+					<MediaRefs>
+						<MediaRef Id="936190068"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="514672840" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_3__Otorga_recurso_Agua_01" DurationType="OneShot" DurationMin="2.8618367" DurationMax="2.8618367">
+					<MediaRefs>
+						<MediaRef Id="146076882"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2888361082" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_4__Otorga_recurso_Flores_01" DurationType="OneShot" DurationMin="0.90959185" DurationMax="0.90959185">
+					<MediaRefs>
+						<MediaRef Id="440234865"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4160374450" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_5__Otorga_recurso_Semillas_01" DurationType="OneShot" DurationMin="1.9366666" DurationMax="1.9366666">
+					<MediaRefs>
+						<MediaRef Id="797448151"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2258180374" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_6__Acceleraci_n_de_Semillas_01" DurationType="OneShot" DurationMin="7.830431" DurationMax="7.830431">
+					<MediaRefs>
+						<MediaRef Id="974119521"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2778939333" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_7_Acceleraci_n_de_FloresyFrutas_01" DurationType="OneShot" DurationMin="2.9393425" DurationMax="2.9393425">
+					<MediaRefs>
+						<MediaRef Id="298005546"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="629255208" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_8__Acceleraci_n_de_Agua_01" DurationType="OneShot" DurationMin="3.6714058" DurationMax="3.6714058">
+					<MediaRefs>
+						<MediaRef Id="587981912"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="268825137" Name="Play_The_Last_Spark_of_Nature__SFX_Carta_9__Purificador_de_Niebla_01" DurationType="OneShot" DurationMin="1.9571655" DurationMax="1.9571655">
+					<MediaRefs>
+						<MediaRef Id="146482765"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3426150824" Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_1_01" DurationType="OneShot" DurationMin="2.830567" DurationMax="2.830567">
+					<MediaRefs>
+						<MediaRef Id="204645253"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4054711573" Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_2_01" DurationType="OneShot" DurationMin="3.0837414" DurationMax="3.0837414">
+					<MediaRefs>
+						<MediaRef Id="501054652"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4156834366" Name="Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_3_01" DurationType="OneShot" DurationMin="3.3680272" DurationMax="3.3680272">
+					<MediaRefs>
+						<MediaRef Id="779837828"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="183405476" Name="Play_The_Last_Spark_of_Nature__SFX_Voltear_Cartas__Card_Flip_01" DurationType="OneShot" DurationMin="0.25" DurationMax="0.25">
+					<MediaRefs>
+						<MediaRef Id="947238628"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2193800853" Name="Stop_MusicGamePlay" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{F7C054B5-F059-B977-4193-2A4175F39318}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+			<GameParameters>
+				<GameParameter Id="822163944" Name="SS_Air_RPM"/>
+				<GameParameter Id="1029930033" Name="SS_Air_Fury"/>
+				<GameParameter Id="1351367891" Name="SS_Air_Fear"/>
+				<GameParameter Id="2648548617" Name="SS_Air_Month"/>
+				<GameParameter Id="3002758120" Name="SS_Air_Freefall"/>
+				<GameParameter Id="3074696722" Name="SS_Air_Size"/>
+				<GameParameter Id="3203397129" Name="SS_Air_TimeOfDay"/>
+				<GameParameter Id="3715662592" Name="SS_Air_Storm"/>
+				<GameParameter Id="3847924954" Name="SS_Air_Presence"/>
+				<GameParameter Id="4160247818" Name="SS_Air_Turbulence"/>
+			</GameParameters>
+			<AcousticTextures>
+				<AcousticTexture Id="504532776" Name="Brick">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="12"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="18"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="23"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="513139656" Name="Mountain">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="0"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="841620460" Name="Concrete">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="14"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1755085759" Name="Wood_Deep">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="1"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="8"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="20"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1873957695" Name="Anechoic">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1970351858" Name="Fabric">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="3"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="13"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="48"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="72"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2058049674" Name="Wood">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="32"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="25"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="20"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2412606308" Name="Carpet">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="46"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="45"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="76"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2637588553" Name="Tile">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="67"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="41"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="12"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="0"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2928161104" Name="Curtains">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="7"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="60"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="84"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="3195498748" Name="Cork_Tiles">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="14"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="30"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="73"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="3670307564" Name="Drywall">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="2"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="4168643977" Name="Acoustic_Banner">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="37"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="4262522749" Name="Wood_Bright">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="32"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="25"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="10"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="9"/>
+						<Property Name="Scattering" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+			</AcousticTextures>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{FF4E37E7-7983-C058-D21C-A50E1ED35D2C}</FileHash>
+</SoundBanksInfo>

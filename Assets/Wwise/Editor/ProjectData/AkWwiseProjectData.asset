@@ -24,7 +24,7 @@ MonoBehaviour:
     ParentPath: Virtual Acoustics/Default Work Unit
     guid: 2d28168fbe03d841aed76856df3b396c
     GuidInternal: 
-    m_lastTime: -8584747378392847926
+    m_lastTime: -8584747239025735924
     List: []
   - PhysicalPath: Virtual Acoustics/Factory Acoustic Textures.wwu
     PathAndIcons:
@@ -37,7 +37,7 @@ MonoBehaviour:
     ParentPath: Virtual Acoustics/Factory Acoustic Textures
     guid: 6b663d46a83ca54f8b4a5fef12b883f6
     GuidInternal: 
-    m_lastTime: -8584783889164775808
+    m_lastTime: -8584747239025714016
     List:
     - name: Acoustic_Banner
       guid: f2532d2fccda8e408b8898b1b52a26d6
@@ -303,7 +303,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy/Default Work Unit
     guid: 66ee41818899894e8a19454b056c6e64
     GuidInternal: 
-    m_lastTime: -8584747378393183563
+    m_lastTime: -8584747239026401455
     List:
     - name: Master Audio Bus
       guid: d8a41415a61d2a41a17e75ca0c2149f3
@@ -331,7 +331,7 @@ MonoBehaviour:
     ParentPath: SoundBanks/Default Work Unit
     guid: 4349cf5e6aaf2d43b86a249fbff39d52
     GuidInternal: 
-    m_lastTime: -8584747354100033625
+    m_lastTime: -8584747239026289939
     List:
     - name: GreenVSPollutionSoundBank
       guid: 81501ff3d8c9ed49816515a42bc7c4c5
@@ -359,7 +359,7 @@ MonoBehaviour:
     ParentPath: Events/Default Work Unit
     guid: 2781e763c60c4f4a991ecff58d0a10af
     GuidInternal: 
-    m_lastTime: -8584747354368662995
+    m_lastTime: -8584747239026349433
     List:
     - name: Play_MusicGamePlay
       guid: 3d68cb2765d1c64ea5514521ad39734a
@@ -393,8 +393,8 @@ MonoBehaviour:
         guid: 54e0135b479b8a40bc46f76eb04e985d
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Boton__Resume___Reanudar__01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.27408165
+      minDuration: 0.27408165
     - name: Play_The_Last_Spark_of_Nature__SFX_Boton_Al_hacer_click_en_la_carta__01
       guid: e2ffc3a1e7e72047b2a8029ab88852c1
       id: 4061655016
@@ -410,8 +410,8 @@ MonoBehaviour:
         guid: e2ffc3a1e7e72047b2a8029ab88852c1
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Boton_Al_hacer_click_en_la_carta__01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 1.0289342
+      minDuration: 1.0289342
     - name: Play_The_Last_Spark_of_Nature__SFX_Boton_Ocultar_Mostrar_cartas__01
       guid: a3743fce0663ba4fbbf0078030f5f1aa
       id: 3836058936
@@ -427,8 +427,8 @@ MonoBehaviour:
         guid: a3743fce0663ba4fbbf0078030f5f1aa
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Boton_Ocultar_Mostrar_cartas__01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.25460318
+      minDuration: 0.25460318
     - name: Play_The_Last_Spark_of_Nature__SFX_Boton_Pausa__01
       guid: 3e05c923fe857741906b6283edfd002e
       id: 4071430048
@@ -444,8 +444,8 @@ MonoBehaviour:
         guid: 3e05c923fe857741906b6283edfd002e
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Boton_Pausa__01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.1915873
+      minDuration: 0.1915873
     - name: Play_The_Last_Spark_of_Nature__SFX_Boton_Salida__01
       guid: 4d4b207c8d101a4c88d8860373330503
       id: 3913797448
@@ -461,8 +461,8 @@ MonoBehaviour:
         guid: 4d4b207c8d101a4c88d8860373330503
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Boton_Salida__01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.3558957
+      minDuration: 0.3558957
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_1__Vista_de_isla_01
       guid: c68068027e054c4f8b2ddcf871a46888
       id: 2858023234
@@ -478,8 +478,8 @@ MonoBehaviour:
         guid: c68068027e054c4f8b2ddcf871a46888
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_1__Vista_de_isla_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 2.4498866
+      minDuration: 2.4498866
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_10__Amplificar_rango_de_Purificaci_n_Niebla_01
       guid: f49cb8121d1e7e43bb76bdb91669eba1
       id: 1406237484
@@ -495,8 +495,8 @@ MonoBehaviour:
         guid: f49cb8121d1e7e43bb76bdb91669eba1
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_10__Amplificar_rango_de_Purificaci_n_Niebla_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 2.5
+      minDuration: 2.5
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_11__Re_Fill_de_recursos_01
       guid: 9538b437e2d63846b35069202f43965c
       id: 2092624804
@@ -512,8 +512,8 @@ MonoBehaviour:
         guid: 9538b437e2d63846b35069202f43965c
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_11__Re_Fill_de_recursos_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 2.141678
+      minDuration: 2.141678
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_2__Desmantelar_totem_devolver_recursos_01
       guid: a1ba8bb34006584896afd6b47f4e7eb2
       id: 611736617
@@ -529,8 +529,8 @@ MonoBehaviour:
         guid: a1ba8bb34006584896afd6b47f4e7eb2
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_2__Desmantelar_totem_devolver_recursos_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 2.8598866
+      minDuration: 2.8598866
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_3__Otorga_recurso_Agua_01
       guid: 86635dee71aef245bc49ee671d37461c
       id: 514672840
@@ -546,8 +546,8 @@ MonoBehaviour:
         guid: 86635dee71aef245bc49ee671d37461c
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_3__Otorga_recurso_Agua_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 2.8618367
+      minDuration: 2.8618367
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_4__Otorga_recurso_Flores_01
       guid: 6a97755c16c7394a9eecf1b75aa05d52
       id: 2888361082
@@ -563,8 +563,8 @@ MonoBehaviour:
         guid: 6a97755c16c7394a9eecf1b75aa05d52
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_4__Otorga_recurso_Flores_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.90959185
+      minDuration: 0.90959185
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_5__Otorga_recurso_Semillas_01
       guid: a3a8ef7c4240044f988b4a805a0b52f2
       id: 4160374450
@@ -580,8 +580,8 @@ MonoBehaviour:
         guid: a3a8ef7c4240044f988b4a805a0b52f2
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_5__Otorga_recurso_Semillas_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 1.9366666
+      minDuration: 1.9366666
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_6__Acceleraci_n_de_Semillas_01
       guid: 94cbf10d0998fe43844f4e44f73842aa
       id: 2258180374
@@ -597,8 +597,8 @@ MonoBehaviour:
         guid: 94cbf10d0998fe43844f4e44f73842aa
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_6__Acceleraci_n_de_Semillas_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 7.830431
+      minDuration: 7.830431
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_7_Acceleraci_n_de_FloresyFrutas_01
       guid: edb731e7592f7840a13684cc7e888e2b
       id: 2778939333
@@ -614,8 +614,8 @@ MonoBehaviour:
         guid: edb731e7592f7840a13684cc7e888e2b
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_7_Acceleraci_n_de_FloresyFrutas_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 2.9393425
+      minDuration: 2.9393425
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_8__Acceleraci_n_de_Agua_01
       guid: ddaab59731dfcf44b028044c9e5ed581
       id: 629255208
@@ -631,8 +631,8 @@ MonoBehaviour:
         guid: ddaab59731dfcf44b028044c9e5ed581
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_8__Acceleraci_n_de_Agua_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 3.6714058
+      minDuration: 3.6714058
     - name: Play_The_Last_Spark_of_Nature__SFX_Carta_9__Purificador_de_Niebla_01
       guid: 0bf122bc62fc2b4683c084ed5f52ab58
       id: 268825137
@@ -648,8 +648,8 @@ MonoBehaviour:
         guid: 0bf122bc62fc2b4683c084ed5f52ab58
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Carta_9__Purificador_de_Niebla_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 1.9571655
+      minDuration: 1.9571655
     - name: Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_1_01
       guid: 2e7dc3c17c7e934fbb6903d188bc0539
       id: 3426150824
@@ -665,8 +665,8 @@ MonoBehaviour:
         guid: 2e7dc3c17c7e934fbb6903d188bc0539
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_1_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 2.830567
+      minDuration: 2.830567
     - name: Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_2_01
       guid: cda22abb19e3ea4aade6841849cc2183
       id: 4054711573
@@ -682,8 +682,8 @@ MonoBehaviour:
         guid: cda22abb19e3ea4aade6841849cc2183
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_2_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 3.0837414
+      minDuration: 3.0837414
     - name: Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_3_01
       guid: bc59d5a10369a44d9788ecc1d651df5b
       id: 4156834366
@@ -699,8 +699,8 @@ MonoBehaviour:
         guid: bc59d5a10369a44d9788ecc1d651df5b
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Territorio_Hexagonal__Extenci_n_de_Terreno__Arbol__variaci_n_3_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 3.3680272
+      minDuration: 3.3680272
     - name: Play_The_Last_Spark_of_Nature__SFX_Voltear_Cartas__Card_Flip_01
       guid: 6def7f7751ac874397171c5093ae48a3
       id: 183405476
@@ -716,8 +716,8 @@ MonoBehaviour:
         guid: 6def7f7751ac874397171c5093ae48a3
       Path: Events/Default Work Unit/Play_The_Last_Spark_of_Nature__SFX_Voltear_Cartas__Card_Flip_01
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.25
+      minDuration: 0.25
     - name: Stop_MusicGamePlay
       guid: 9246c301410d54448955a6bc3a6683e6
       id: 2193800853
@@ -733,8 +733,8 @@ MonoBehaviour:
         guid: 9246c301410d54448955a6bc3a6683e6
       Path: Events/Default Work Unit/Stop_MusicGamePlay
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0
+      minDuration: 0
   RtpcWwu:
   - PhysicalPath: Game Parameters/Default Work Unit.wwu
     PathAndIcons:
@@ -747,7 +747,7 @@ MonoBehaviour:
     ParentPath: Game Parameters/Default Work Unit
     guid: c927b4334c11204885d3e4e3554ad016
     GuidInternal: 
-    m_lastTime: -8584747378393070414
+    m_lastTime: -8584747239026268049
     List: []
   - PhysicalPath: Game Parameters/Factory Soundseed Air Game Syncs.wwu
     PathAndIcons:
@@ -760,7 +760,7 @@ MonoBehaviour:
     ParentPath: Game Parameters/Factory Soundseed Air Game Syncs
     guid: 5577163b42fb8b4598bf96f557afb3b9
     GuidInternal: 
-    m_lastTime: -8584783889084775808
+    m_lastTime: -8584747239026251757
     List:
     - name: SS_Air_Fear
       guid: 59062ef746431c4ea1b1dab46a05101e
@@ -914,7 +914,7 @@ MonoBehaviour:
     ParentPath: States/Default Work Unit
     guid: 819fd5e36a9ffc4c942c2cfb6cd0224e
     GuidInternal: 
-    m_lastTime: -8584747378393107305
+    m_lastTime: -8584747239026312249
     List: []
   SwitchWwu:
   - PhysicalPath: Switches/Default Work Unit.wwu
@@ -928,7 +928,7 @@ MonoBehaviour:
     ParentPath: Switches/Default Work Unit
     guid: 520a8d2d73a1db4bacc28f75dc7df8ae
     GuidInternal: 
-    m_lastTime: -8584747378393124964
+    m_lastTime: -8584747239026324733
     List: []
   TriggerWwu:
   - PhysicalPath: Triggers/Default Work Unit.wwu
@@ -942,10 +942,10 @@ MonoBehaviour:
     ParentPath: Triggers/Default Work Unit
     guid: 0cf1b81bc7fe8748aa0290ec842faec0
     GuidInternal: 
-    m_lastTime: -8584747378392967123
+    m_lastTime: -8584747239025956032
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 0600000007000000
+  ExpandedWaapiItemIds: 0500000006000000070000001f00000020000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
