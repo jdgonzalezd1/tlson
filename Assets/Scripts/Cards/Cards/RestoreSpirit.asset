@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce7428e4ef8d274bb11e97e3eb3d106, type: 3}
+  m_Name: RestoreSpirit
+  m_EditorClassIdentifier: 
+  cardName: Restaurar recursos
+  cardDescription: "Restaura los recursos de un Totem que no tenga sus recursos disponibles
+    al m\xE1ximo."
+  splashArt: {fileID: 21300000, guid: 0462fe9aad898b342a1b68ed47931a99, type: 3}
+  flowerCost: 25
+  seedCost: 25
+  waterCost: 25

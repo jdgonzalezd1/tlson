@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{FEE11837-214E-4D71-ABDE-B80DF700E0B6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Botones" ID="{1A9053FB-165F-47A3-875F-08FBDEB10970}" ShortID="30610188">
+					<ChildrenList>
+						<Sound Name="The Last Spark of Nature_ SFX_Boton _Resume - Reanudar _01" ID="{8F0A2679-20BA-4C14-BCC7-124ED5166A01}" ShortID="256850421">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Boton _Resume - Reanudar _01" ID="{D5A3D0F6-6BBC-4B20-B3D9-8E15E5F95EBF}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Boton _Resume - Reanudar _01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="840125706"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Boton _Resume - Reanudar _01" ID="{D5A3D0F6-6BBC-4B20-B3D9-8E15E5F95EBF}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Boton_Al hacer click en la carta _01" ID="{229812F5-3F47-4976-BFBF-3D5631B42B8F}" ShortID="921254358">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Boton_Al hacer click en la carta _01" ID="{1BE6C051-741B-4E80-AFAE-253061A52473}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Boton_Al hacer click en la carta _01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="991858296"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Boton_Al hacer click en la carta _01" ID="{1BE6C051-741B-4E80-AFAE-253061A52473}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Boton_Ocultar_Mostrar cartas _01" ID="{87D15DB1-AF7D-4538-BC7B-952814CD85AE}" ShortID="464539936">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Boton_Ocultar_Mostrar cartas _01" ID="{B5FD7CA1-2A39-41A8-80F6-54721911C51E}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Boton_Ocultar_Mostrar cartas _01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="662442390"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Boton_Ocultar_Mostrar cartas _01" ID="{B5FD7CA1-2A39-41A8-80F6-54721911C51E}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Boton_Pausa _01" ID="{CA2F492B-AA95-44D1-9392-B0DAE5FCEB9D}" ShortID="952765136">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Boton_Pausa _01" ID="{6DD088B8-A926-47AB-BBFD-4044286B0665}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Boton_Pausa _01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="630296948"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Boton_Pausa _01" ID="{6DD088B8-A926-47AB-BBFD-4044286B0665}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Boton_Salida _01" ID="{2AD078BC-5CB5-4A7D-A67A-4404F7CA3EEB}" ShortID="855988110">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Boton_Salida _01" ID="{BFDBBCAC-91F7-4A37-B6B1-DF8C98B446B0}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Boton_Salida _01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="982877609"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Boton_Salida _01" ID="{BFDBBCAC-91F7-4A37-B6B1-DF8C98B446B0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Cartas" ID="{B4888B7C-F5D6-4276-9A5D-75BB0823929B}" ShortID="709041625">
+					<ChildrenList>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 1 _Vista de isla_01" ID="{7B8F6EBD-A29A-4098-A447-213FD958B7F8}" ShortID="643514885">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 1 _Vista de isla_01" ID="{E19A24BE-C2C2-4BED-8A0A-AD5E58C9FF52}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 1 _Vista de isla_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="621874895"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 1 _Vista de isla_01" ID="{E19A24BE-C2C2-4BED-8A0A-AD5E58C9FF52}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 2 _Desmantelar totem-devolver recursos_01" ID="{EB600392-0093-465D-AA4D-3D6AA759463C}" ShortID="1007169058">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 2 _Desmantelar totem-devolver recursos_01" ID="{C7D5954B-BB68-4CA1-A070-CD2934E837D6}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 2 _Desmantelar totem-devolver recursos_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="936190068"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 2 _Desmantelar totem-devolver recursos_01" ID="{C7D5954B-BB68-4CA1-A070-CD2934E837D6}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 3 _Otorga recurso_Agua_01" ID="{08D26C41-9829-40C8-921D-9BC50DC7CBF8}" ShortID="853418522">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 3 _Otorga recurso_Agua_01" ID="{B074DCE9-4B23-4345-B8F6-FE4836A4A45F}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 3 _Otorga recurso_Agua_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="146076882"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 3 _Otorga recurso_Agua_01" ID="{B074DCE9-4B23-4345-B8F6-FE4836A4A45F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 4 _Otorga recurso_Flores_01" ID="{1557905B-9A09-4817-9261-05289C9D908F}" ShortID="204644157">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 4 _Otorga recurso_Flores_01" ID="{0E0D5BEC-CB0B-4898-8C18-EA2E5E3BAB7D}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 4 _Otorga recurso_Flores_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="440234865"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 4 _Otorga recurso_Flores_01" ID="{0E0D5BEC-CB0B-4898-8C18-EA2E5E3BAB7D}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 5 _Otorga recurso_Semillas_01" ID="{24A46B17-9146-4AFF-BB41-491F2E92AD22}" ShortID="412828650">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 5 _Otorga recurso_Semillas_01" ID="{BB29B0F9-E81E-4A8C-9F23-CE784B20DFC3}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 5 _Otorga recurso_Semillas_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="797448151"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 5 _Otorga recurso_Semillas_01" ID="{BB29B0F9-E81E-4A8C-9F23-CE784B20DFC3}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 6 _Acceleración de Semillas_01" ID="{047B8B7E-4373-4FFB-9105-6C28F136A45C}" ShortID="412558356">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 6 _Acceleración de Semillas_01" ID="{70983D7E-EB7A-470E-A0DD-DC66533419B8}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 6 _Acceleración de Semillas_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="974119521"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 6 _Acceleración de Semillas_01" ID="{70983D7E-EB7A-470E-A0DD-DC66533419B8}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 7_Acceleración de FloresyFrutas_01" ID="{9E4D9FAC-73A2-447E-BEB8-696BC98985D0}" ShortID="136573744">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 7_Acceleración de FloresyFrutas_01" ID="{B729FA4E-2FA9-4E93-A1D4-BC0CC7CAE8D2}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 7_Acceleración de FloresyFrutas_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="298005546"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 7_Acceleración de FloresyFrutas_01" ID="{B729FA4E-2FA9-4E93-A1D4-BC0CC7CAE8D2}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 8 _Acceleración de Agua_01" ID="{E8950188-C639-481B-9BEA-19AB9DAE2A6D}" ShortID="320913618">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 8 _Acceleración de Agua_01" ID="{A1BA673A-C0F2-44DC-919F-DA83D50226BE}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 8 _Acceleración de Agua_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="587981912"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 8 _Acceleración de Agua_01" ID="{A1BA673A-C0F2-44DC-919F-DA83D50226BE}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 9 _Purificador de Niebla_01" ID="{63AF8623-C52F-4D55-8B10-9402FE67F6F7}" ShortID="42472612">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 9 _Purificador de Niebla_01" ID="{31EE401C-083D-4559-9D1F-597ACFD874B4}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 9 _Purificador de Niebla_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="146482765"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 9 _Purificador de Niebla_01" ID="{31EE401C-083D-4559-9D1F-597ACFD874B4}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 10 _Amplificar rango de Purificación Niebla_01" ID="{8DE8B3FF-A4B3-47B1-9902-B3AFEA5A432A}" ShortID="273001398">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 10 _Amplificar rango de Purificación Niebla_01" ID="{396EBBE2-EB5C-45B6-874B-702E27343FA8}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 10 _Amplificar rango de Purificación Niebla_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="830648334"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 10 _Amplificar rango de Purificación Niebla_01" ID="{396EBBE2-EB5C-45B6-874B-702E27343FA8}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Carta 11 _Re-Fill de recursos_01" ID="{A7F3F008-09D5-46ED-8E24-1AC90129CCA6}" ShortID="757039684">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Carta 11 _Re-Fill de recursos_01" ID="{20EBAA6D-E984-4CB3-B8DE-60513F475BED}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Carta 11 _Re-Fill de recursos_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="493330258"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Carta 11 _Re-Fill de recursos_01" ID="{20EBAA6D-E984-4CB3-B8DE-60513F475BED}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Voltear Cartas _Card Flip_01" ID="{FC012D60-013F-4076-A625-C28FBE016D7D}" ShortID="41486236">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Voltear Cartas _Card Flip_01" ID="{1A3978F0-7BAF-485F-AA40-B4D0B77DE57D}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Voltear Cartas _Card Flip_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="947238628"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Voltear Cartas _Card Flip_01" ID="{1A3978F0-7BAF-485F-AA40-B4D0B77DE57D}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Territorio" ID="{B27453E0-EA55-43C6-9537-069CE13846C3}" ShortID="461790220">
+					<ChildrenList>
+						<Sound Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 1_01" ID="{8A539CC9-1210-4B7E-AAE3-6B67AE28CBA5}" ShortID="681025549">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 1_01" ID="{D6E19A63-C4D0-463C-8AAB-C8C662C90191}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 1_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="204645253"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 1_01" ID="{D6E19A63-C4D0-463C-8AAB-C8C662C90191}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 2_01" ID="{AA2899C1-6CF3-4B98-A7D5-062809684662}" ShortID="1500683">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 2_01" ID="{4C0C09E4-928E-4BE1-A96F-122C8EEA75A1}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 2_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="501054652"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 2_01" ID="{4C0C09E4-928E-4BE1-A96F-122C8EEA75A1}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 3_01" ID="{E3B75D21-540D-4B26-8962-31B87CBF882C}" ShortID="767396274">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{765DF922-BD78-433C-9CBA-3D1CD67F2C0B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8141EE66-9988-4E89-8A19-454B056C6E64}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 3_01" ID="{F0D1A95E-A2C1-425C-B7F4-316734A80E2B}">
+									<Language>SFX</Language>
+									<AudioFile>The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 3_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="779837828"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="The Last Spark of Nature_ SFX_Territorio Hexagonal _Extención de Terreno (Arbol) variación 3_01" ID="{F0D1A95E-A2C1-425C-B7F4-316734A80E2B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

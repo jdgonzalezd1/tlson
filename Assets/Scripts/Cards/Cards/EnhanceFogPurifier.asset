@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce7428e4ef8d274bb11e97e3eb3d106, type: 3}
+  m_Name: EnhanceFogPurifier
+  m_EditorClassIdentifier: 
+  cardName: "Mejora de Visi\xF3n"
+  cardDescription: "Aumenta el rango de purificaci\xF3n de un Purificador de niebla
+    que no hayas mejorado."
+  splashArt: {fileID: 21300000, guid: 7ad1795d467ce9749994f25f522fcacf, type: 3}
+  flowerCost: 100
+  seedCost: 100
+  waterCost: 100
