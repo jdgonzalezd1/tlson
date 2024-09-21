@@ -15,5 +15,6 @@ public class Card : ScriptableObject
 
     public int seedCost;
 
-    public int waterCost;
+    public int waterCost;    
+    
 }
